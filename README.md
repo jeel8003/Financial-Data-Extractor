@@ -104,6 +104,12 @@ pip install <package_name>
 ### Output
 
 ![Alt text](https://res.cloudinary.com/db99r7ugz/image/upload/v1738390551/WhatsApp_Image_2025-02-01_at_11.45.36_556ed7c8_hs8r7m.jpg)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9187d6b3-021f-4f09-a272-d160549b8a4b" />
+<img width="1110" height="549" alt="image" src="https://github.com/user-attachments/assets/5f73d7f4-8468-46d4-8a91-60148fc055f6" />
+<img width="1146" height="702" alt="image" src="https://github.com/user-attachments/assets/27956467-d78d-4a86-87e0-fc11e1597660" />
+
+
+
 
 ### Contribution
 
